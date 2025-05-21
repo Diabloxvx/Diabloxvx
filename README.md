@@ -23,10 +23,6 @@ I'm a college student, passionate software developer interested in open-source p
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-## GitHub Stats
-
-![Diabloxvx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diabloxvx&show_icons=true&theme=radical)
-
 ## Support Me
 
 If you like my work, consider supporting a college student!
